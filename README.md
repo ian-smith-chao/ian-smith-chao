@@ -4,7 +4,7 @@ I am Ian and i'm currently a student in Ottawa, Canada.
 
 
 ## Learning
- <a href="https://github.com/search?q=ian-smith-chaouser%3A+language%3Acpp"><img alt="C++" src="https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
+ <a href="https://github.com/ian-smith-chaouser%3A+language%3Acpp"><img alt="C++" src="https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
 
 
 ## 💻 Operating Systems Used 
