@@ -1,18 +1,14 @@
 ## Hi there 👋
+I am Ian and i'm currently a student in Ottawa, Canada.
 
-<!--
-**ian-smith-chao/ian-smith-chao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-# 💻 Operating Systems Used</h2> 
+## Learning
+ <a href="https://github.com/search?q=ian-smith-chaouser%3A+language%3Acpp"><img alt="C++" src="https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ian.smith-chao@stu.ocsb.ca
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 💻 Operating Systems Used 
+<a href="https://linux.org/"><img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=white" alt="Linux"></a>
+<a href="https://www.raspberrypi.com/"><img src="https://img.shields.io/badge/-RaspberryPi-C51A4A?logo=Raspberry-Pi&logoColor=white" alt="Raspberry Pi"></a>
+<a href="https://www.microsoft.com/en-ca/windows/"><img src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white" alt="Windows"></a>
+<a href="https://www.google.com/intl/en_ca/chromebook/chrome-os/"><img src="https://img.shields.io/badge/chrome%20os-3d89fc?logo=google%20chrome&logoColor=white" alt="ChromeOS"></a>
